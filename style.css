@@ -1,0 +1,79 @@
+.gravity {
+    color: antiquewhite !important;
+    font-size: xx-large !important;
+  }
+  .heading {
+    color: white;
+    align-items: center !important;
+    padding-left: 42%;
+    font-size: larger !important;
+  }
+  .left-box {
+    background-color: rgb(49, 46, 46) !important;
+    height: 550px;
+    width: 25%;
+    margin-top: 80px;
+    border-radius: 10px;
+    display: flex;
+  }
+  .field {
+    background-color: rgb(49, 46, 46) !important;
+    width: 70%;
+    height: 10%;
+    border-radius: 10px;
+    display: flex;
+    margin-left: 200px;
+    font-weight: bold;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+  .right {
+    text-align: right;
+    color: aliceblue;
+  }
+  
+  .item-one {
+    height: 150px;
+    width: 30%;
+    background-color: rgb(49, 46, 46);
+    border-radius: 10px;
+  }
+  .item-two {
+    height: 150px;
+    width: 30%;
+    background-color: rgb(49, 46, 46);
+    border-radius: 10px;
+  }
+  .item-three {
+    height: 150px;
+    width: 30%;
+    background-color: rgb(49, 46, 46);
+    border-radius: 10px;
+  }
+  .input {
+    margin-left: 100%;
+    margin-bottom: 50px;
+  }
+  .box {
+    display: flex;
+    margin-top: 70px;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+    margin-left: 100px;
+  }
+  .comment {
+    height: 200px;
+    width: 800px;
+    background-color: rgb(49, 46, 46);
+    margin-top: 70px;
+    border-radius: 10px;
+    margin-left: 100px;
+  }
+  body {
+    background-color: rgb(185, 189, 185) !important;
+  }
+  .section {
+    margin-left: 50px;
+  }
+  
